@@ -1,0 +1,1 @@
+"To convert a PDF file to a Word file using Python, we can use the following code, which utilizes a library that needs to be installed with the command pip install pdf2docx. We then need to specify the input and output files."
